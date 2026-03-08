@@ -1,93 +1,112 @@
-<h1 align="center">Hi, I'm Michael Asis</h1>
+<div align="center">
 
-<p align="center">
-  BSIT Student · Camarines Norte State Colleges &nbsp;·&nbsp; AI Engineering Enthusiast &nbsp;·&nbsp; Open to Collaboration
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
+
+# Michael Asis
+### BSIT Student · Camarines Norte State Colleges
+
+<p>
+  Crafting intelligent applications at the intersection of<br/>
+  <strong>AI Engineering</strong> · <strong>Full-Stack Development</strong> · <strong>Mobile Experiences</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/programmingwithkel">
-    <img src="https://komarev.com/ghpvc/?username=programmingwithkel&label=visitors&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/programmingwithkel?style=flat-square&color=6e40c9&labelColor=1a1a2e&label=Followers)](https://github.com/programmingwithkel)
+[![Profile Views](https://komarev.com/ghpvc/?username=programmingwithkel&style=flat-square&color=6e40c9&labelColor=1a1a2e&label=Profile+Views)](https://github.com/programmingwithkel)
+
+</div>
 
 ---
 
-## About
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmingwithkel&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" width="38%" />
 
-I'm a Bachelor of Science in Information Technology student at Camarines Norte State Colleges, focused on AI engineering and building intelligent applications. I enjoy integrating AI into real-world projects — from web and mobile frontends to backend APIs that bring it all together.
+### About Me
 
-- 🤖 &nbsp;**AI Integration** — building apps powered by OpenAI, Gemini, and PyTorch
-- 🌐 &nbsp;**Web Development** — responsive and accessible interfaces
-- 📱 &nbsp;**Mobile Development** — cross-platform experiences
-- ⚙️ &nbsp;**Backend & APIs** — clean, reliable server-side architecture
-- 🤝 &nbsp;**Open to collaboration** — always interested in meaningful projects
+I'm an IT student deeply passionate about **AI engineering** and building applications that are more than just functional — they're intelligent. I integrate large language models and ML frameworks into full-stack systems, from sleek frontends to robust APIs.
+
+- 🤖 Integrating **OpenAI**, **Gemini API** & **PyTorch** into real apps
+- 🌐 Building modern web experiences with **React**, **Next.js** & **Vue**
+- ⚙️ Designing clean backend architectures and data-driven APIs
+- 📱 Crafting cross-platform mobile experiences
+- 🤝 Always open to collaborating on meaningful projects
+
+<br clear="right"/>
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-**AI & Machine Learning**
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+**AI & ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST-API-0e75b6?style=flat-square)
-
-**Tools & Platforms**
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmingwithkel&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmingwithkel&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=programmingwithkel&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=programmingwithkel&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" width="48%" />
+
+</div>
 
 ---
 
-## Let's Work Together
+### Let's Connect
 
-I'm open to collaborating on web, mobile, backend, or AI-integrated projects. If you have an idea or want to build something together, reach out.
+<div align="center">
 
-<p>
-  <a href="https://github.com/programmingwithkel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <!-- Uncomment and update with your links:
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  -->
-</p>
+<p>Open to collaborating on AI-powered, web, mobile, or backend projects.<br/>Have an idea? Let's build it.</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-programmingwithkel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmingwithkel)
+<!-- Replace with your actual links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+-->
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
