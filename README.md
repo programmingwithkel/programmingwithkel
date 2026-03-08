@@ -84,16 +84,7 @@ I'm an IT student deeply passionate about **AI engineering** and building applic
 
 ---
 
-### GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=programmingwithkel&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=programmingwithkel&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" width="48%" />
-
-</div>
-
----
 
 ### Let's Connect
 
