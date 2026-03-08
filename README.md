@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Kel</h1>
+<h1 align="center">Hi, I'm Michael Asis</h1>
 
 <p align="center">
-  Full-Stack & Mobile Developer &nbsp;·&nbsp; Clean Code Enthusiast &nbsp;·&nbsp; Open to Collaboration
+  BSIT Student · Camarines Norte State Colleges &nbsp;·&nbsp; AI Engineering Enthusiast &nbsp;·&nbsp; Open to Collaboration
 </p>
 
 <p align="center">
@@ -14,16 +14,23 @@
 
 ## About
 
-I build across the full stack — from polished web interfaces and mobile apps to robust backend systems and APIs. I care about writing code that's clean, maintainable, and actually solves problems.
+I'm a Bachelor of Science in Information Technology student at Camarines Norte State Colleges, focused on AI engineering and building intelligent applications. I enjoy integrating AI into real-world projects — from web and mobile frontends to backend APIs that bring it all together.
 
-- 🌐 &nbsp;**Web** — responsive, accessible, and fast
-- 📱 &nbsp;**Mobile** — native and cross-platform experiences
-- ⚙️ &nbsp;**Backend** — reliable APIs and scalable architecture
+- 🤖 &nbsp;**AI Integration** — building apps powered by OpenAI, Gemini, and PyTorch
+- 🌐 &nbsp;**Web Development** — responsive and accessible interfaces
+- 📱 &nbsp;**Mobile Development** — cross-platform experiences
+- ⚙️ &nbsp;**Backend & APIs** — clean, reliable server-side architecture
 - 🤝 &nbsp;**Open to collaboration** — always interested in meaningful projects
 
 ---
 
 ## Tech Stack
+
+**AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Frontend**
 
@@ -63,7 +70,7 @@ I build across the full stack — from polished web interfaces and mobile apps t
 
 ## Let's Work Together
 
-I'm open to collaborating on interesting web, mobile, or backend projects. If you have an idea or want to build something together, reach out.
+I'm open to collaborating on web, mobile, backend, or AI-integrated projects. If you have an idea or want to build something together, reach out.
 
 <p>
   <a href="https://github.com/programmingwithkel">
