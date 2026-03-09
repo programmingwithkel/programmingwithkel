@@ -13,7 +13,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/programmingwithkel?style=flat-square&color=6e40c9&labelColor=1a1a2e&label=Followers)](https://github.com/programmingwithkel)
-[![Profile Views](https://komarev.com/ghpvc/?username=programmingwithkel&style=flat-square&color=6e40c9&labelColor=1a1a2e&label=Profile+Views)](https://github.com/programmingwithkel)
+
 
 </div>
 
