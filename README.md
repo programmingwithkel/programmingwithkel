@@ -19,13 +19,11 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmingwithkel&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd" width="38%" />
-
 ### About Me
 
 I'm an IT student deeply passionate about **AI engineering** and building applications that are more than just functional — they're intelligent. I integrate large language models and ML frameworks into full-stack systems, from sleek frontends to robust APIs.
 
-- 🤖 Integrating **OpenAI**, **Gemini API** & **PyTorch** into real apps
+- 🤖 Integrating **OpenAI** & **Gemini API** - Currently Learning **Pytorch** for Deep Learning 
 - 🌐 Building modern web experiences with **React**, **Next.js** & **Vue**
 - ⚙️ Designing clean backend architectures and data-driven APIs
 - 📱 Crafting cross-platform mobile experiences
