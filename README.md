@@ -23,11 +23,11 @@
 
 I'm an IT student deeply passionate about **AI engineering** and building applications that are more than just functional — they're intelligent. I integrate large language models and ML frameworks into full-stack systems, from sleek frontends to robust APIs.
 
-- 🤖 Integrating **OpenAI** & **Gemini API** - Currently Learning **Pytorch** for Deep Learning 
-- 🌐 Building modern web experiences with **React**, **Next.js** & **Vue**
-- ⚙️ Designing clean backend architectures and data-driven APIs
-- 📱 Crafting cross-platform mobile experiences
-- 🤝 Always open to collaborating on meaningful projects
+-  Integrating **OpenAI** & **Gemini API** - Currently Learning **Pytorch** for Deep Learning 
+-  Building modern web experiences with **React**, **Next.js** & **Vue**
+-  Designing clean backend architectures and data-driven APIs
+-  Crafting cross-platform mobile experiences
+-  Always open to collaborating on meaningful projects
 
 <br clear="right"/>
 
